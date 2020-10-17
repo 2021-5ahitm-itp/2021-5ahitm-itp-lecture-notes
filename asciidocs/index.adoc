@@ -12,68 +12,55 @@ ifndef::imagesdir[:imagesdir: images]
 ifdef::backend-html5[]
 
 // https://fontawesome.com/v4.7.0/icons/
-icon:file-text-o[link=https://raw.githubusercontent.com/htl-leonding-college/asciidoctor-docker-template/master/asciidocs/{docname}.adoc] ‏ ‏ ‎
-icon:github-square[link=https://github.com/htl-leonding-college/asciidoctor-docker-template] ‏ ‏ ‎
-icon:home[link=https://htl-leonding.github.io/]
+//icon:file-text-o[link=https://raw.githubusercontent.com/htl-leonding-college/asciidoctor-docker-template/master/asciidocs/{docname}.adoc] ‏ ‏ ‎
+//icon:github-square[link=https://github.com/htl-leonding-college/asciidoctor-docker-template] ‏ ‏ ‎
+//icon:home[link=https://htl-leonding.github.io/]
 endif::backend-html5[]
 
 // print the toc here (not at the default position)
 //toc::[]
 
-== Pflichtenheft "Was mache ich"
+====
+Vereinbarung:
 
+Es werden keine Tests durchgeführt. Leistungsbewertung durch:
 
-=== Ausgangssituation
+* mündliche Gespräche
+* schriftliche LZK
+* Projekte
+* Referate!
+====
 
-Die HTL Leonding ist eine HTL im oö. Zentralraum mit ca. 1000 Schülern und den Fachabteilungen Medientechnik, Informatik, ....
+== Lecture Notes 5ahitm ITP 2021 Lecture Notes
 
-=== Istzustand
-----
-Beschreibung der speziellen Situation zB in der Abteilung
-----
-=== Problemstellung
-=== Aufgabenstellung
-==== Funktionale Anforderungen
+=== 2020-09-28
 
-[plantuml,wireframe,png]
-----
-@startsalt
-{
-Name         | "                 "
-Modifiers:   | { (X) public | () default | () private | () protected
-	            [] abstract | [] final   | [] static }
-Superclass:  | { "java.lang.Object " | [Browse...] }
-}
-@endsalt
-----
-==== Nichtfunktionale Anforderungen (NFA)
-=== Ziele
-=== Mengengerüst
-=== Rahmenbedingungen
-zB Vorgaben vom Auftraggeber
+.ToDo
+|===
+|Wer |Was |Bis wann? |erledigt?
 
-== Entwurf "Wie mache ich es"
-=== Systemarchitektur
-=== ...
+|Stütz
+|Liste der Referatsthemen
+|5. Okt. 2020
+|icon:uncheck[]
 
-== Projekthandbuch "Organisatorische Rahmenbedingungen"
+|Stütz
+|Referatstermine festlegen
+|5. Okt. 2020
+|icon:uncheck[]
 
-=== GANTT-Diagramm
+|Stütz
+|RevealJs Repo zur Verfügung stellen
+|5. Okt. 2020
+|icon:uncheck[]
 
-mit User-Stories (definiert in YouTrack)
+|===
 
-[plantuml,gantt-protoype,png]
-----
-@startuml
-[Test prototype] lasts 10 days
-[Prototype completed] happens at [Test prototype]'s end
-[Setup assembly line] lasts 12 days
-[Setup assembly line] starts at [Test prototype]'s end
-[Test prototype 2] lasts 3 days
-[Test prototype 2] starts at [Prototype completed]'s end
-@enduml
-----
+== 2020-10-13
 
-* link:minutes-of-meeting.html[Protokollvorlage]
-* link:demo.html[Demo]
+=== Observer-Pattern
 
+Anhand einer einfachen Quarkus-Anwendung mit 2 Schnittstellentypen (WebSocket, Rest) und einem Service.
+
+.Aufgabe
+Die beiden Schnittstellen über Änderungen des Service informieren, ohne zueinander Abhängigkeiten zu entwickeln
