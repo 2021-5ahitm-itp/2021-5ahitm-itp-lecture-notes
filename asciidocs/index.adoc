@@ -57,6 +57,7 @@ Es werden keine Tests durchgeführt. Leistungsbewertung durch:
 |===
 
 == 2020-10-13
+C.Eisserer
 
 === Observer-Pattern
 
