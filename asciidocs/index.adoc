@@ -61,6 +61,9 @@ C.Eisserer
 
 === Observer-Pattern
 
+Theorie: Separation of concerns, loose coupling.
+dependency inversion principle kurz erwähnt.
+
 Anhand einer einfachen Quarkus-Anwendung mit 2 Schnittstellentypen (WebSocket, Rest) und einem Service.
 
 .Aufgabe
