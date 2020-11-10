@@ -65,3 +65,30 @@ Anhand einer einfachen Quarkus-Anwendung mit 2 Schnittstellentypen (WebSocket, R
 
 .Aufgabe
 Die beiden Schnittstellen über Änderungen des Service informieren, ohne zueinander Abhängigkeiten zu entwickeln
+
+
+== 2020-10-20
+
+=== GIT-Wiederholung
+
+[source,bash]
+----
+git restore --source=HEAD <file(s)> #<.>
+git restore --source=HEAD~1 <file(s)> #<.>
+----
+
+<.> Restore des Files vom letzten Commit
+<.> Restore des Files vom vorletzten Commit
+
+== 2020-11-10
+
+=== Wiederholung Git
+
+* Branching
+* Stashing
+
+=== Projektbesprechungen
+
+* CAMeleon
+* Beeyond
+* Leonie chatbot
