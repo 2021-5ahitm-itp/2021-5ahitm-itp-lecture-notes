@@ -95,3 +95,42 @@ git restore --source=HEAD~1 <file(s)> #<.>
 * CAMeleon
 * Beeyond
 * Leonie chatbot
+
+== 2020-11-16
+
+=== Wiederholung Git
+
+==== Merges
+
+* Fast-forward merges
+* 3-way merges
+
+Film bis exclusive "9-Three way merges"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
