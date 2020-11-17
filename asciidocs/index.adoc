@@ -107,9 +107,9 @@ git restore --source=HEAD~1 <file(s)> #<.>
 
 Film bis exclusive "9-Three way merges"
 
+== 2020-11-17
 
-
-
+* bis inklusive "11-Merge Conflicts"
 
 
 
