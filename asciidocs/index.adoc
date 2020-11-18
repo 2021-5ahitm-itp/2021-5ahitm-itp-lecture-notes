@@ -112,6 +112,15 @@ Film bis exclusive "9-Three way merges"
 * bis inklusive "11-Merge Conflicts"
 
 
+== 2020-11-17
+C.Eisserer
+
+=== Chain-of-Responsibility-Pattern
+
+Beispiel labs/quarkus-cor
+
+Theorie anhand einer manuellen Implementierung, siehe Package at.ac.htlleonding.chainofresp
+Praktische Anwendung anhand von jax-rs ContainerRequestFilter, siehe at.ac.htlleonding.filter
 
 
 
