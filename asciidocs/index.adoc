@@ -139,10 +139,13 @@ Praktische Anwendung anhand von jax-rs ContainerRequestFilter, siehe at.ac.htlle
 * Abgabe im Classroom: https://classroom.github.com/a/c51t1nvF
 
 
+* Tipp von Prof. Aberger
+** https://stackoverflow.com/questions/13857638/global-custom-exception-handler-in-resteasy[Global custom exception handler in resteasy]
 
-
-
-
+* Batch-Processing
+** Abwicklung von long-running jobs
+** https://www.oracle.com/technical-resources/articles/java/batch-processing-ee-7.html[An Overview of Batch Processing in Java EE 7.0, window="_blank"]
+** https://github.com/quarkusio/quarkus/issues/1505[Batch-processing ist derzeit in Quarkus noch nicht implementiert]
 
 
 
