@@ -111,16 +111,23 @@ Film bis exclusive "9-Three way merges"
 
 * bis inklusive "11-Merge Conflicts"
 
+* nächstes Mal Deployment mit Jib ins Minikube
 
 
+== 2020-12-01
 
+* bis exkl. "12 - Graphical Merge Tool"
 
-
-
-
-
-
-
+* Übung
+** Ansehen von https://www.youtube.com/watch?v=jEN3D9EN7ss[Branches Commit Pull Request Merge in IntelliJ IDEA and GitHub: Example with Code, window="_blank"]
+** Erstellen und dokumentieren (mit Screenshots) eines three-Way-Merges mit IntelliJ-Unterstützung
+** Erstellen und dokumentieren des Erstellungsprozesses und des Ergebnisses von JavaDoc
+*** recherchieren Sie die möglichen Tags ZB @Author
+*** mit Code-Beispielen enthalten
+*** Auf Paket-, Klassen- und Methodenebene
+*** Ist es möglich (UML-)Images in einem JavaDoc-Dokument zu integrieren. Wie?
+* https://stackoverflow.com/questions/22095487/why-is-package-info-java-useful[Why is package-info.java useful?, window="_blank"]
+* Abgabe im Classroom: https://classroom.github.com/a/c51t1nvF
 
 
 
