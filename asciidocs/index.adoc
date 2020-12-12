@@ -124,6 +124,18 @@ Theorie anhand einer manuellen Implementierung, siehe Package at.ac.htlleonding.
 Praktische Anwendung anhand von jax-rs ContainerRequestFilter, siehe at.ac.htlleonding.filter
 
 == 2020-12-01
+C.Eisserer
+
+=== Dependency-Injection-Pattern
+
+Beispiel labs/creational-patterns
+
+Hintergründe und Vorteile von Dependency-Injection:
+Bei Verwendung von Interfaces bieten Dependency Injection die Möglichkeit, direkte Abhängigkeiten zu vermeiden.
+Damit wird es beispielsweise möglich, eine Implementierung global durch eine andere zu ersetzen, ohne den eigentlichen Programmcode anpassen zu müssen.
+
+
+== 2020-12-01
 
 * bis exkl. "12 - Graphical Merge Tool"
 

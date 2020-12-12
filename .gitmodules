@@ -1,3 +1,6 @@
 [submodule "labs/quarkus-cor"]
 	path = labs/quarkus-cor
 	url = https://github.com/ceisserer/quarkus-cor.git
+[submodule "labs/creational-patterns"]
+	path = labs/creational-patterns
+	url = https://github.com/ceisserer/creational-patterns
