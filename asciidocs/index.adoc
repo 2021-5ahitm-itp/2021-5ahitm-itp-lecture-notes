@@ -161,7 +161,14 @@ Damit wird es beispielsweise möglich, eine Implementierung global durch eine an
 
 
 
+== 2020-12-15
 
+C.Eisserer, F. Gruber-Leitner
 
+=== Abstract Factory Pattern
 
+Erzeugen von Objekten an zentraler Stelle -> konfigurierbar.
+Kombinierbar mit Dependency-Injection um die Factory injecten zu lassen, wenn mehr Kontrolle über die Erzeugung notwendig ist.
+
+Laden von Klassen und Instanzieren zur Laufzeit (Class.forName) anhand des Factory-Pattern Beispiels.
 
