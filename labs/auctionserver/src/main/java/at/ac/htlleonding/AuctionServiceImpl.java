@@ -1,17 +1,19 @@
 package at.ac.htlleonding;
 
+import at.ac.htlleonding.api.AuctionService;
+
 import javax.enterprise.context.ApplicationScoped;
 import java.util.Optional;
 
 @ApplicationScoped
-public class AuctionService {
+public class AuctionServiceImpl implements AuctionService {
   private static final int BIDS_PER_CYCLE = 10;
 
   String highestBidder;
   int highestBid;
   int bidNr;
 
-  public AuctionService() {
+  public AuctionServiceImpl() {
     reset();
   }
 

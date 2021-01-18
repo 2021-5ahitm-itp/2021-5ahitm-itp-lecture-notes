@@ -1,10 +1,14 @@
 package at.ac.htlleonding;
 
+import at.ac.htlleonding.api.AuctionService;
+
+import javax.annotation.PostConstruct;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.websocket.*;
 import javax.websocket.server.PathParam;
 import javax.websocket.server.ServerEndpoint;
+import java.lang.reflect.Proxy;
 import java.util.Map;
 import java.util.Optional;
 import java.util.concurrent.ConcurrentHashMap;
